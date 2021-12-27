@@ -147,6 +147,24 @@
         "question",
         "translation"
       ]
+    },
+    {
+      "login": "EinPinsel",
+      "name": "Stefan H.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12642546?v=4",
+      "profile": "https://github.com/EinPinsel",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "ciacon",
+      "name": "ciacon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49395?v=4",
+      "profile": "https://github.com/ciacon",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7
